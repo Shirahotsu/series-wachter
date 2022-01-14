@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV Series Info</string>
+    <string name="DBLoadProblem">Problem z załadowaniem danych z bazy</string>
+    <string name="EpisodeNumber">Odcinek:</string>
+    <string name="EpisodeTittle">Tytuł:</string>
+    <string name="FavoriteEmpty">Jeszcze nie masz ulubionych seriali :(</string>
+    <string name="FavoriteSuccess">Załadowano seriale :)</string>
+    <string name="remove_favorite">"Usunięto serial z ulubionych "</string>
+    <string name="add_favorite">Dodano serial do ulubionych</string>
+    <string name="nothin_new">Dzisiaj nic nowego :(</string>
+    <string name="something_new">Załadowano dzisiejsze seriale :)</string>
+    <string name="summary">Opis:</string>
+    <string name="tvShow_poster">TVShow poster</string>
+    <string name="today">Dzisiaj</string>
+    <string name="settings">Ustawienia</string>
+    <string name="search">Wyszukaj</string>
+    <string name="favorite">Ulubione</string>
+    <string name="status">Status</string>
+    <string name="lastepisode">Ostatni odcinek:</string>
+    <string name="credits">Podziękowania:</string>
+    <string name="some_icons_made_by_from_flaticon_https_www_flaticon_com_licensed_by_http_creativecommons_org_licenses_by_3_0_creative_commons_by_3_0">Niektóre ikony pobrane z  Flaticon https://www.flaticon.com na licencji http://creativecommons.org/licenses/by/3.0/ Creative Commons BY 3.0</string>
+    <string name="tvshow_info_get_from">Informacje o serialach pobrane z  https://www.tvmaze.com/api na bazie licencji https://creativecommons.org/licenses/by-sa/4.0/</string>
+    <string name="notification_content">Sprawdź co nowego w świecie seriali.</string>
+    <string name="notification_newShow">TV Show Info Przypominajka!</string>
+    <string name="contenttittlenotification">TV Show Info</string>
+    <string name="net_problem">"Chyba nie masz połączenia z internetem :c "</string>
+    <string name="net_other_problems">Chyba nie masz połączenia z internetem albo jakieś inne problemy :(</string>
+</resources>
